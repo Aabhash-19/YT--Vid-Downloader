@@ -1,0 +1,3 @@
+python==3.12.11
+streamlit==1.49.1
+yt-delp==2025.08.27
